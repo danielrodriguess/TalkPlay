@@ -1,0 +1,2101 @@
+.principal{
+	background-color:#C0C0C0;
+	width:1365.2px;
+	height:182px;	
+	margin-top:-21px;
+	margin-left:-0.5%;
+	position:relative;
+}
+
+.amigo{
+	position:absolute;
+	margin-top:59px;
+	margin-left:5.5%;
+}
+
+.lupa{
+	position:absolute;
+	margin-top:28px;
+	margin-left:5.5%;
+}
+
+.a{
+	 margin-left:1%;	
+	 margin-top:25px;
+	 position:absolute;
+}
+
+.a11{
+	margin-left:10%;	
+	 margin-top:15px;
+	 position:absolute;
+}
+
+#senha{
+	margin-left:48%;
+	width:215px;
+}
+
+#email{
+	margin-left:48%;
+	width:215px;
+}
+
+.apk{
+	margin-top:-355px;
+	margin-left:33.5%;
+	position:absolute;
+}
+
+.apk2{
+	margin-top:-330px;
+	margin-left:38%;
+	position:absolute;
+}
+
+.apk3{
+	margin-top:-405px;
+	margin-left:37%;
+	position:absolute;
+}
+
+.apk4{
+	position:absolute;
+	margin-top:91px;
+	margin-left:53%;
+}
+
+#table{
+	margin-left:64%;
+}
+
+.posicao5{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:-250%;
+	margin-top:3px;
+	background-color:white;
+	border-radius:4px;
+}
+
+.posicao5:hover{
+	background-color:#DCDCDC;
+}
+
+.perres{
+	margin-left:-35%;
+	margin-top:-115px;
+}
+
+.conta{
+	margin-top:145px;
+	margin-left:2.5%;
+	position:absolute;
+}
+
+.mudarlink{
+	color:black;
+}
+
+.encontrar1{
+	margin-left:7%;
+	margin-top:-337px;
+	position:absolute;
+}
+
+.encontrar2{
+	margin-left:7%;
+	margin-top:-489px;
+	position:absolute;
+}
+
+
+.amigos4{
+	margin-top:-305px;
+	margin-left:7%;
+	position:absolute;
+}
+
+.exibirimagemamigo{
+	margin-left:86%;
+	margin-top:-94px;
+	position:absolute;
+}
+
+.amigos5{
+	margin-top:-457px;
+	margin-left:7%;
+	position:absolute;
+}
+
+.amigos7{
+	margin-top:-441px;
+	margin-left:7.0%;
+	position:absolute;
+}
+
+.encontrar4{
+	margin-left:7%;
+	margin-top:-473px;
+	position:absolute;
+}
+
+.amigos1{
+	position:absolute;
+}
+
+.exibirimagemnapergunta{
+	margin-left:87%;
+	margin-top:-178px;
+}
+
+#u1{
+	margin-left:-30%;
+	margin-top:-325px;
+}
+
+.log1{
+	margin-left:-61%;
+}
+
+#senha1{
+	margin-left:0%;
+	width:215px;
+}
+
+#email1{
+	margin-left:0%;
+	width:215px;
+}
+
+#btnlog{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:0%;
+	margin-top:3px;
+	background-color:white;
+	border-radius:4px;
+}
+
+#btnlog:hover{
+	background-color:#DCDCDC;
+}
+
+#btperguntar{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:4.3%;
+	margin-top:3px;
+	background-color:white;
+	border-radius:4px;
+	position:absolute;
+}
+
+#btperguntar:hover{
+	background-color:#DCDCDC;
+}
+
+#btnblokk{
+	border:0px;
+	width:133px;
+	height:22px;
+	margin-left:0%;
+	margin-top:-383px;
+	background-color:white;
+	border-radius:4px;
+}
+
+#btnblokk:hover{
+	background-color:#DCDCDC;
+}
+
+#btnconversar{
+	border:0px;
+	width:85px;
+	height:22px;
+	margin-left:50%;
+	margin-top:-19px;
+	background-color:#DCDCDC;
+	border-radius:4px;
+	position:absolute;
+}
+
+#btnconversar:hover{
+	background-color:white;
+}
+
+#btnconversar1{
+	border:0px;
+	width:90px;
+	height:22px;
+	margin-left:30%;
+	margin-top:5px;
+	background-color:#DCDCDC;
+	border-radius:4px;
+	position:absolute;
+}
+
+#btnconversar1:hover{
+	background-color:white;
+}
+
+#btnconversando{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:-8.4%;
+	margin-top:425px;
+	background-color:#DCDCDC;
+	border-radius:4px;
+	position:absolute;
+}
+
+#btnconversando:hover{
+	background-color:white;
+}
+
+.imgdaconversa{
+	margin-left:-9.6%;
+	margin-top:15px;
+}
+
+.mostrarnickc{
+	margin-left:2%;
+	margin-top:-18px;
+}
+
+.caixadeconversa{
+	position:absolute;
+}
+
+.construindojogo{
+	position:absolute;
+	margin-left:30%;
+}
+
+.separarmensagem{
+	position:absolute;
+	background-color:white;
+	width:300px;
+}
+
+.alinharmensagem{
+	margin-left:100%;
+	margin-top:150px;
+	position:relative;
+}
+
+.texto{
+	margin-top:300px;
+}
+
+.remetente{
+	position:absolute;
+	background-color:#E1E1E1;
+	width:325px;
+	margin-left:105%;
+}
+
+.destinatario{
+	/*position:absolute;*/
+	margin-left:215%;
+	width:325px;
+	background-color:#E1E1E1;
+}
+
+.nick20{
+	position:absolute;
+}
+
+.mostrandotodas{
+	position:absolute;
+	background-color:#E1E1E1;
+	width:300px;
+	height:500px;
+	margin-left:0%;
+	margin-top:3px;
+	border-radius:8px;
+}
+
+#table1{
+	margin-left:0%;
+}
+
+#data{
+	width:293.5px;
+	border-radius:4px;
+	border:0.5px solid #C0C0C0;
+	height:25px;
+}
+
+#nome1{
+	width:293.5px;
+	border-radius:4px;
+	border:0.5px solid #C0C0C0;
+	height:25px;
+}
+
+#email2{
+	width:293.5px;
+	border-radius:4px;
+	border:0.5px solid #C0C0C0;
+	height:25px;
+}
+
+#senha2{
+	width:293.5px;
+	border-radius:4px;
+	border:0.5px solid #C0C0C0;
+	height:25px;
+}
+
+#senha3{
+	width:293.5px;
+	border-radius:4px;
+	border:0.5px solid #C0C0C0;
+	height:25px;
+}
+
+#resposta{
+	width:293.5px;
+	border-radius:4px;
+	border:0.5px solid #C0C0C0;
+	height:25px;
+}
+
+#opcao{
+	border-radius:4px;
+	border:0.5px solid #C0C0C0;
+}
+
+#opcao1{
+	position:absolute;
+	border-radius:4px;
+	border:0.5px solid #C0C0C0;
+	margin-left:-10%;
+	margin-top:-9px;
+}
+.log2{
+	background-color:#C0C0C0;
+	width:1365.2px;
+	margin-top:-24.8px;
+	margin-left:0%;
+}
+
+.cadastroa{
+	margin-left:50%;
+	margin-top:-215px;
+}
+
+.bemvindo{
+	margin-top:150px;
+	margin-left:56%;
+	position:absolute;
+}
+
+.bemvindo3{
+	margin-top:100px;
+}
+
+.principal1{
+	position:absolute;
+	margin-top:30px;
+	margin-left:-0.5%;
+	background-color:#8FBC8F;
+}
+
+.img{
+	margin-left:88%;
+	margin-top:150px;
+	position:absolute;
+}
+
+.esqueceuasenha{
+	position:absolute;
+	margin-left:88%;
+	margin-top:-92px;
+}
+
+.criargrupo{
+	margin-left:0%;
+	margin-top:-78px;
+	position:relative;
+	width:483px;
+	height:200px;
+	background-color:white;
+	border-radius:8px;
+}
+
+.criargrupo1{
+	margin-left:26%;
+	margin-top:-15px;
+	position:absolute;
+	width:683px;
+	height:250px;
+	background-color:white;
+	border-radius:8px;
+}
+.mexernonick{
+	margin-top:5px;
+	margin-left:53%;
+	position:absolute;
+}
+
+.mexernaimg{
+	margin-left:31%;
+	position:absolute;
+}
+
+#btnlogar2{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:118%;
+	margin-top:3px;
+	background-color:white;
+	border-radius:4px;
+}
+
+#btnlogar2:hover{
+	background-color:#DCDCDC;
+}
+
+#btnlogar3{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:68%;
+	margin-top:-92px;
+	background-color:white;
+	border-radius:4px;
+	position:absolute;
+}
+
+#btnlogar3:hover{
+	background-color:#DCDCDC;
+}
+
+#btncancelar20{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:68%;
+	margin-top:-68px;
+	background-color:white;
+	border-radius:4px;
+	position:absolute;
+}
+
+#btncancelar20:hover{
+	background-color:#DCDCDC;
+}
+
+.log3{
+	margin-left:0%;
+}
+
+.a1{
+	width:1365.2px;
+	margin-left:-0.5%;
+}
+
+.principal3{
+	background-color:#A9A9A9;
+	width:1365.2px;
+	height:300px;
+	margin-top:-21px;
+	margin-left:-0.5%;	
+}
+
+#troca1{
+	margin-left:0%;
+}
+
+#troca2{
+	margin-left:0%;
+}
+
+#btnlogar4{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:64%;
+	margin-top:-15px;
+	background-color:white;
+	border-radius:4px;
+}
+
+#btnlogar4:hover{
+	background-color:#DCDCDC;
+}
+
+#btnlogar5{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:62%;
+	margin-top:-91px;
+	background-color:white;
+	border-radius:4px;
+}
+
+#btnlogar5:hover{
+	background-color:#DCDCDC;
+}
+
+#btncodigo{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:19.8%;
+	margin-top:11px;
+	position:absolute;
+	background-color:white;
+	border-radius:4px;
+}
+
+#btncodigo:hover{
+	background-color:#DCDCDC;
+}
+
+#btnlogarcontato{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:16.7%;
+	margin-top:-41px;
+	position:absolute;
+	background-color:white;
+	border-radius:4px;
+}
+
+#btnlogarcontato:hover{
+	background-color:#DCDCDC;
+}
+
+#troca10{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:28.7%;
+	margin-top:-1px;
+	position:absolute;
+	background-color:white;
+	border-radius:4px;
+}
+
+#troca10:hover{
+	background-color:#DCDCDC;
+}
+
+#btnlogarcancelar{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:78%;
+	margin-top:-71px;
+	position:absolute;
+	background-color:white;
+	border-radius:4px;
+}
+
+#btnlogarcancelar:hover{
+	background-color:#DCDCDC;
+}
+
+.sair{
+	margin-left:92.1%;
+	margin-top:55px;
+	position:absolute;
+}
+
+.logando{
+	background-color:#8FBC8F;
+	width:1366px;
+	height:100px;
+	margin-left:-0.6%;
+	margin-top:11px;
+}
+
+.nick{
+	margin-top:-21px;
+	margin-left:63%;
+	color:white;
+}
+
+.nick2{
+	margin-top:-183px;
+	margin-left:88.5%;
+	position:absolute;
+}
+
+.notificacao{
+	margin-left:50%;
+	margin-top:-18px;
+}
+
+.notificacao1{
+	margin-left:74%;
+	margin-top:-18px;
+	background-color:#E1E1E1;
+	width:126px;
+	height:18px;
+	border-radius:5px;
+	position:absolute;
+}
+
+.imgnotificacao2{
+	margin-left:72%;
+	margin-top:-47.3px;
+	position:absolute;
+}
+
+.porra{
+	margin-left:8%;
+	margin-top:-0px;
+	position:absolute;
+}
+
+.mensagem{
+	margin-left:88.5%;
+	margin-top:-18px;
+}
+
+#vermensagem{
+	margin-left:66.3%;
+	margin-top:-18px;
+	
+}
+
+.mensagem1{
+	margin-left:87.5%;
+	margin-top:-18px;
+	background-color:#E1E1E1;
+	width:66px;
+	border-radius:5px;
+}
+
+.posicionartexto{
+	margin-left:-79%;
+}
+
+.alterar{
+	margin-top:-65px;
+	margin-left:85%;
+	position:absolute;
+}
+
+.paginainicial{
+	margin-top:39px;
+	margin-left:0.4%;
+}
+
+.mensagemnaolida{
+	background-color:#A9A9A9;
+	width:258px;
+	border-radius:5px;
+}
+
+#btnresponder{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:53%;
+	margin-top:-0px;
+	background-color:white;
+	border-radius:4px;
+}
+
+#btnresponder:hover{
+	background-color:#DCDCDC;
+}
+
+#btnresponder1{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:73%;
+	margin-top:10px;
+	background-color:#DCDCDC;
+	border-radius:4px;
+}
+
+#btnresponder1:hover{
+	background-color:white;
+}
+
+.txtresposta{
+	width:260px;
+	height:60px;
+}
+
+textarea{
+	resize: none;
+}
+
+.visu{
+	margin-left:81%;
+	margin-top:-19px;
+	background-color:#A9A9A9;
+	width:2px;
+}
+
+.imgmensagem{
+	margin-top:-18px;
+	margin-left:85%;
+	position:absolute;
+}
+
+.imgmensagem1{
+	margin-top:-55px;
+	margin-left:86%;
+}
+
+.imgmensagem2{
+	margin-top:-109px;
+	margin-left:86%;
+}
+
+.imgmensagem3{
+	margin-left:84%;
+	margin-top:-111px;
+	position:absolute;
+}
+
+.imgmensagem4{
+	margin-left:85%;
+	margin-top:-93px;
+	position:absolute;
+}
+
+.imgnotificacao{
+	margin-left:72%;
+	margin-top:-10px;
+	position:absolute;
+}
+
+.imgnotificacao1{
+	margin-left:72%;
+	margin-top:-56.7px;
+	position:absolute;
+}
+
+.log{
+	margin-left:59%;
+}
+
+#btnlogar{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:95%;
+	margin-top:3px;
+	background-color:white;
+	border-radius:4px;
+}
+
+#btnlogar:hover{
+	background-color:#DCDCDC;
+}
+
+#btnha{
+	position:absolute;
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:95%;
+	margin-top:3px;
+	background-color:#DCDCDC;
+	border-radius:4px;
+}
+
+#btnha:hover{
+	background-color:white;
+}
+
+#btnha1{
+	position:absolute;
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:145%;
+	margin-top:29px;
+	background-color:#DCDCDC;
+	border-radius:4px;
+}
+
+#btnha1:hover{
+	background-color:white;
+}
+
+.ajustandofot{
+	position:absolute;
+	margin-left:105%;
+	margin-top:70px;
+	width:350px;
+}
+
+#btndeletar{
+	position:absolute;
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:37.5%;
+	margin-top:235px;
+	background-color:white;
+	border-radius:4px;
+}
+
+#btndeletar:hover{
+	background-color:#DCDCDC;
+}
+
+#btnerro{
+	position:absolute;
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:13.1%;
+	margin-top:235px;
+	background-color:white;
+	border-radius:4px;
+}
+
+#btnerro:hover{
+	background-color:#DCDCDC;
+}
+
+
+#btnsim{
+	position:absolute;
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:37.5%;
+	margin-top:30px;
+	background-color:white;
+	border-radius:4px;
+}
+
+#btnsim:hover{
+	background-color:#DCDCDC;
+}
+
+#btnnao{
+	position:absolute;
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:53%;
+	margin-top:30px;
+	background-color:white;
+	border-radius:4px;
+}
+
+#btnnao:hover{
+	background-color:#DCDCDC;
+}
+
+.mostrartodas{
+	background-color:#F0F0F0;
+	width:683px;
+	border-radius:4px;
+	margin-top:138px;
+	height:350px;
+	margin-left:5%;
+}
+
+.mostrartodas1{
+	background-color:#A9A9A9;
+	width:215px;
+	margin-left:78%;
+	border-radius:4px;
+	margin-top:-345px;
+	height:350px;
+}
+
+#btnlogar1{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:46.5%;
+	margin-top:3px;
+	background-color:white;
+	border-radius:4px;
+}
+
+#btnlogar1:hover{
+	background-color:#DCDCDC;
+}
+
+#btaceitar{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:1%;
+	margin-top:3px;
+	background-color:white;
+	border-radius:4px;
+}
+
+#btnaceitar:hover{
+	background-color:#DCDCDC;
+}
+
+
+#btrecusar{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:46%;
+	margin-top:3px;
+	background-color:white;
+	border-radius:4px;
+}
+
+#btnbuscar{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:11%;
+	background-color:white;
+	border-radius:4px;
+}
+
+#txtbuscar{
+	width:230px;
+	height:22px;
+	border-radius:4px;
+	border: 0px solid;
+}
+
+.amigos{
+	margin-left:7%;
+	margin-top:-38.5px;
+	color:black;
+	position:absolute;
+}
+
+.amigos1{
+	margin-left:3.8%;
+	margin-top:-520px;
+	color:black;
+}
+
+.amigos2{
+	margin-left:3.8%;
+	margin-top:-513px;
+	color:black;
+}
+
+.amigos3{
+	margin-left:3.8%;
+	margin-top:-463px;
+	color:black;
+}
+
+.encontrar{
+	margin-left:7%;
+	margin-top:-70px;
+	position:absolute;
+}
+
+.buscando{
+	margin-top:60px;
+}
+
+.mostraramigos{
+	width:400px;
+	height:300px;
+	background-color:#A9A9A9;
+	border-radius:8px;
+	position:relative;
+}
+
+.imgperfil{
+	position:absolute;
+	margin-left:30%;
+	margin-top:10px;
+}
+
+.barrinhabusca{
+	width:400px;
+	height:5px;
+	margin-top:10px;
+	border-radius:4px;
+	position:absolute;
+	background-color:white;
+}
+
+.btnenviar{
+	position:relative;
+	margin-top:39px;
+	margin-left:20%;
+	border:0px;
+	width:115px;
+	height:22px;
+	background-color:white;
+	border-radius:4px;
+}
+
+.btnenviar:hover{
+	background-color:#E1E1E1;
+}
+
+.add1{
+	margin-top:41px;
+	margin-left:45%;
+	position:absolute;	
+}
+
+.alinharamigo{
+	margin-left:20%;
+	position:absolute;	
+}
+
+.alinharamigo1{
+	margin-left:36%;
+	position:absolute;	
+}
+
+.mostrandotodos{
+	position:relative;
+	background-color:#F0F0F0;
+	width:683px;
+	border-radius:4px;
+	margin-top:15px;
+	height:350px;
+	margin-left:5%;
+}
+
+.mostrandotodos1{
+	position:relative;
+	background-color:#F0F0F0;
+	width:683px;
+	border-radius:4px;
+	margin-top:-407px;
+	height:350px;
+	margin-left:5%;
+}
+
+.barrinhabusca1{
+	margin-top:70px;
+	width:400px;
+	height:5px;
+	border-radius:4px;	
+	background-color:white;
+}
+
+#btnjogar{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:-80%;
+	margin-top:15px;
+	background-color:white;
+	border-radius:4px;
+	position:absolute;
+}
+
+#btnjogar:hover{
+	background-color:#A9A9A9;
+}
+
+#mostrandonick{
+	position:absolute;
+	margin-top:12px;
+	margin-left:45%;
+}
+
+#btnrecusar:hover{
+	background-color:#DCDCDC;
+}
+
+#btndesfazer{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:-13.5%;
+	margin-top:75px;
+	background-color:white;
+	border-radius:4px;
+	position:absolute;
+}
+
+#btnbloquear{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:7%;
+	margin-top:75px;
+	background-color:white;
+	border-radius:4px;
+	position:absolute;
+}
+
+#btnbloquear:hover{
+	background-color:#DCDCDC;
+}
+
+#btnbloquear1{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:54.7%;
+	margin-top:17px;
+	background-color:white;
+	border-radius:4px;
+	position:absolute;
+}
+
+#btnbloquear1:hover{
+	background-color:#DCDCDC;
+}
+
+#erro404{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:54.7%;
+	margin-top:17px;
+	background-color:white;
+	border-radius:4px;
+	position:absolute;
+}
+
+#erro404:hover{
+	background-color:#DCDCDC;
+}
+
+#btndenunciar{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:27%;
+	margin-top:75px;
+	background-color:white;
+	border-radius:4px;
+	position:absolute;
+}
+
+#btndenunciar:hover{
+	background-color:#DCDCDC;
+}
+
+.barradeamigos{
+	width:683px;
+	height:5px;
+	background-color:white;
+	position:absolute;
+	margin-top:130px;
+}
+
+#btaceitar1{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:-36%;
+	margin-top:-38px;
+	background-color:white;
+	border-radius:4px;
+}
+
+#btaceitar1:hover{
+	background-color:#DCDCDC;
+}
+
+#btnjogaragora{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:-35%;
+	margin-top:8px;
+	background-color:white;
+	border-radius:4px;
+}
+
+#btnjogaragora:hover{
+	background-color:#DCDCDC;
+}
+
+#btnagoranao{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:35%;
+	margin-top:-38px;
+	background-color:white;
+	border-radius:4px;
+}
+
+#btnagoranao:hover{
+	background-color:#DCDCDC;
+}
+
+#btndesfazer:hover{
+	background-color:#DCDCDC;
+}
+
+#btncomp{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:-35%;
+	margin-top:8px;
+	background-color:white;
+	border-radius:4px;
+}
+
+#btncomp:hover{
+	background-color:#DCDCDC;
+}
+
+::-webkit-scrollbar-track {
+	background:#A9A9A9;
+	
+}
+::-webkit-scrollbar {
+    width: 6px;
+    background: #F4F4F4;
+	
+	
+}
+::-webkit-scrollbar-thumb {
+     background-color: #F4F4F4;
+	 border-radius:4px;
+	
+}
+
+.cada{
+	background-color:white;
+	border-radius:5px;
+	width:450px;
+}
+
+.cada:hover{
+	border: 1px solid black;
+}
+
+.cada2{
+	background-color:#808080;
+	border-radius:5px;
+	width:550px;
+	height:80px;
+}
+
+.cada2:hover{
+	border: 1px solid black;
+}
+
+.cada3{
+	background-color:white;
+	border-radius:5px;
+	width:550px;
+	height:50px;
+}
+
+.cada3:hover{
+	border: 1px solid black;
+}
+
+.cada1{
+	background-color:#808080;
+	border-radius:5px;
+	width:450px;
+}
+
+.cada1:hover{
+	border: 1px solid black;
+}
+
+#btnlogar6{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:59%;
+	margin-top:3px;
+	background-color:white;
+	border-radius:4px;
+}
+
+#btnlogar6:hover{
+	background-color:#DCDCDC;
+}
+
+#btnlogar7{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:-73%;
+	margin-top:-45px;
+	background-color:white;
+	border-radius:4px;
+}
+
+#btnlogar7:hover{
+	background-color:#DCDCDC;
+}
+
+#btnlogar8{
+	border:0px;
+	width:138px;
+	height:22px;
+	margin-left:-51%;
+	margin-top:5px;
+	background-color:#DCDCDC;
+	border-radius:4px;
+	position:absolute;
+}
+
+#btnlogar8:hover{
+	background-color:#A9A9A9;
+}
+
+#btnlogar9{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:53%;
+	margin-top:5px;
+	background-color:#DCDCDC;
+	border-radius:4px;
+	position:absolute;
+}
+
+.alinhaposicaoa{
+	position:absolute;
+	margin-left:89%;
+	margin-top:5px;
+}
+
+.aviso{
+	position:absolute;
+	width:220px;
+	margin-left:8%;
+}
+
+#btnlogar9:hover{
+	background-color:#A9A9A9;
+}
+
+#btnlogar10{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:60.4%;
+	margin-top:10px;
+	background-color:white;
+	border-radius:4px;
+}
+
+#btnlogar10:hover{
+	background-color:#A9A9A9;
+}
+
+#btnfecharjogo{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:-4%;
+	margin-top:-40px;
+	background-color:white;
+	border-radius:4px;
+	position:absolute;
+}
+
+#btnfecharjogo:hover{
+	background-color:#DCDCDC;
+}
+
+#btnfecharjogocancelar{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:-4%;
+	margin-top:-160px;
+	background-color:white;
+	border-radius:4px;
+	position:absolute;
+}
+
+#btnfecharjogocancelar:hover{
+	background-color:#DCDCDC;
+}
+
+#btnfecharjogo1{
+	border:0px;
+	width:65px;
+	height:22px;
+	margin-left:3%;
+	margin-top:-330px;
+	background-color:white;
+	border-radius:4px;
+	position:absolute;
+}
+
+#btnfecharjogo1:hover{
+	background-color:#DCDCDC;
+}
+
+#btnfecharjogonao{
+	border:0px;
+	width:65px;
+	height:22px;
+	margin-left:3%;
+	margin-top:-90px;
+	background-color:white;
+	border-radius:4px;
+	position:absolute;
+}
+
+#btnfecharjogonao:hover{
+	background-color:#DCDCDC;
+}
+
+.jogando1{
+	margin-top:250px;
+}
+
+#btnfecharjogo2{
+	border:0px;
+	width:65px;
+	height:22px;
+	margin-left:-7%;
+	margin-top:-330px;
+	background-color:white;
+	border-radius:4px;
+	position:absolute;
+}
+
+#btnfecharjogo2:hover{
+	background-color:#DCDCDC;
+}
+
+#btnfecharjogosim{
+	border:0px;
+	width:65px;
+	height:22px;
+	margin-left:-7%;
+	margin-top:-90px;
+	background-color:white;
+	border-radius:4px;
+	position:absolute;
+}
+
+#btnfecharjogosim:hover{
+	background-color:#DCDCDC;
+}
+
+#btngrupo{
+	border:0px;
+	width:65px;
+	height:22px;
+	margin-left:3%;
+	margin-top:40px;
+	background-color:#DCDCDC;
+	border-radius:4px;
+	position:absolute;
+}
+
+.barragrupo{
+	width:483px;
+	height:5px;
+	margin-top:110px;
+	border-radius:4px;
+	position:absolute;
+	background-color:#DCDCDC;
+}
+
+#btngrupo:hover{
+	background-color:white;
+}
+
+.certeza{
+	margin-top:-360px;
+	margin-left:46%;
+	position:absolute;
+}
+
+.certeza1{
+	position:absolute;
+	margin-left:46%;
+	margin-top:-123px;
+}
+
+#alterarnome{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:-183%;
+	margin-top:-186px;
+	background-color:white;
+	border-radius:4px;
+}
+
+#alterarnome:hover{
+	background-color:#DCDCDC;
+}
+
+#u{
+	margin-left:-30%;
+	margin-top:0px;
+}
+
+.alinhar2{
+	margin-left:-39%;
+	margin-top:-180px;
+}
+
+#padrao1{
+	margin-top:-216px;
+	margin-left:-39%;
+}
+
+#alteraremail{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:-287.3%;
+	margin-top:-150px;
+	background-color:white;
+	border-radius:4px;
+}
+
+#alteraremail:hover{
+	background-color:#DCDCDC;
+}
+
+#alterarnick{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:-390%;
+	margin-top:-114px;
+	background-color:white;
+	border-radius:4px;
+}
+
+#alterarnick:hover{
+	background-color:#DCDCDC;
+}
+
+#fotodeperfil{
+	border:0px;
+	width:115px;
+	height:22px;
+	margin-left:46.5%;
+	margin-top:3px;
+	background-color:white;
+	border-radius:4px;
+}
+
+#fotodeperfil:hover{
+	background-color:#DCDCDC;
+}
+
+#nick{
+	width:215px;
+	border-radius:4px;
+	border:0px;
+}
+
+.nick1{
+	margin-top:-90px;
+	margin-left:88.5%;
+	position:absolute;
+}
+
+.nick50{
+	margin-top:-200px;
+	margin-left:88.5%;
+	position:absolute;
+}
+
+.alinharpergunta{
+	position:absolute;
+}
+
+.alinharscore{
+	position:absolute;
+	margin-left:75%;
+	margin-top:30px;
+}
+
+#opcoes{
+	position:absolute;
+	margin-left:-10%;
+}
+
+#r{
+	margin-left:-5%;
+}
+
+.nick5{
+	margin-top:-165px;
+	margin-left:88.5%;
+	position:absolute;
+}
+
+.posicao{
+	margin-left:-160%;
+	margin-top:-186px;
+}
+
+.posicao1{
+	margin-left:-475%;
+	margin-top:-155px;
+	border:0px;
+	width:75px;
+	height:22px;
+	background-color:white;
+	border-radius:4px;
+}
+
+.posicao1:hover{
+	background-color:#DCDCDC;
+}
+
+.posicao2{
+	margin-left:-160%;
+	margin-top:-156px;
+	border:0px;
+	width:75px;
+	height:22px;
+	background-color:white;
+	border-radius:4px;
+}
+
+.posicao2:hover{
+	background-color:#DCDCDC;
+}
+
+.posicao3{
+	border:0px;
+	width:75px;
+	height:22px;
+	margin-top:5px;
+	background-color:white;
+	border-radius:4px;
+}
+
+.posicao3:hover{
+	background-color:#DCDCDC;
+}
+
+.res{
+	margin-top:45px;
+}
+
+.posicao4{
+	border:0px;
+	margin-left:-107%;
+	margin-top:5px;
+	width:75px;
+	height:22px;
+	background-color:white;
+	border-radius:4px;
+}
+
+.posicao4:hover{
+	background-color:#DCDCDC;
+}
+
+.paginainicial1{
+	margin-top:66px;
+	margin-left:0.4%;
+}
+
+.padrao{
+	margin-top:-238px;
+}
+
+.padrao1{
+	margin-top:-140px;
+}
+
+.escolha{
+	margin-top:98px;
+}
+
+.alinhar{
+	margin-top:11%;
+}
+
+.categoria1{
+	margin-top:-105px;
+	margin-left:1.5%;
+	background-color:#A9A9A9;
+	width:300px;
+	border-radius:4px;
+}
+
+.config{
+	margin-top:188px;
+	margin-left:21.5%;
+	position:relative;
+}
+
+.lampada{
+	margin-top:-20px;
+	margin-left:4.5%;
+}
+
+.lampada1{
+	margin-top:-20px;
+	margin-left:19.1%;
+}
+
+.categoria2{
+	margin-top:159px;
+}
+
+.categoria3{
+	margin-top:-107px;
+	margin-left:1.5%;
+	background-color:#A9A9A9;
+	width:300px;
+	border-radius:4px;
+}
+
+.hover{
+	width:250px;
+	background-color:white;
+	height:200px;
+	margin-left:-81%;
+	margin-top:-121px;
+}
+
+.hover:hover{
+	width:250px;
+	height:200px;
+	border-radius:12px;
+	margin-left:-81%;
+}
+
+.seusdados{
+	margin-left:53%;
+	margin-top:-60px;
+	background-color:#ffffff;
+	border-radius:8px;
+	width:450px;
+	position:absolute;
+}
+
+.exibirimagem{
+	margin-left:86%;
+	margin-top:-94px;
+	position:absolute;
+}
+
+.exibirimagemmensagem{
+	margin-left:86%;
+	margin-top:-187px;
+	position:absolute;
+}
+
+.encontrar3{
+	margin-left:7%;
+	margin-top:-1px;
+	position:absolute;
+}
+
+.encontrar9{
+	margin-left:7%;
+	margin-top:-163px;
+	position:absolute;
+}
+
+.meuperfil{
+	background-color:#8FBC8F;
+	width:257px;
+	height:483px;
+	margin-top:19px;
+	position:absolute;
+}
+
+.meuperfil1{
+	width:257px;
+	height:5px;
+	background-color:#DCDCDC;
+	margin-top:5px;
+}
+
+.amigos9{
+	margin-left:7%;
+	margin-top:-131px;
+	position:absolute;
+}
+
+.amigos10{
+	margin-left:7%;
+	margin-top:-122px;
+	position:absolute;
+}
+
+.exibirimagem10{
+	margin-left:86%;
+	margin-top:-178px;
+	position:absolute;
+}
+
+.encontrar10{
+	margin-left:7%;
+	margin-top:-154px;
+	position:absolute;
+}
+
+
+.encontrar5{
+	margin-left:7%;
+	margin-top:-216px;
+	position:absolute;
+}
+
+.enfeites{
+	background-color:white;
+	width:300px;
+	height:450px;
+	margin-left:-4%;
+	border-radius:10px;
+}
+
+.rankingplay{
+	margin-top:-490px;
+	margin-left:5%;
+}
+
+.jogouainda{
+	margin-left:4.5%;
+}
+
+.lazer{
+	width:257px;
+	height:483px;
+	background-color:#8FBC8F;
+	position:absolute;
+	margin-left:69%;
+	margin-top:19px;
+	border-radius:8px;
+}
+
+.barraonline{
+	width:257px;
+	height:5px;
+	background-color:#DCDCDC;
+}
+
+.amigos8{
+	margin-left:7%;
+	margin-top:-184px;
+	position:absolute;
+}
+
+.amigos6{
+	margin-left:7%;
+	margin-top:31px;
+	position:absolute;
+}
+
+.exibirimagem1{
+	margin-top:-94px;
+	margin-left:87%;
+}
+
+.exibirimagemnotificacao{
+	margin-top:-169px;
+	margin-left:87%;
+}
+
+.exibirimagemalterar{
+	margin-top:-94px;
+	margin-left:86%;
+	position:absolute;
+}
+
+.lampada2{
+	margin-top:-20px;
+	margin-left:4.5%;
+}
+
+.lampada3{
+	margin-top:-20px;
+	margin-left:19.1%;
+}
+
+.separacao{
+	background-color:#A9A9A9;
+	width:450px;
+	height:350px;
+	margin-left:63%;
+	margin-top:-18px;
+	border-radius:4px;	
+}
+
+.checar{
+	margin-left:65%;
+	margin-top:-158px;	
+}
+
+.ranking{
+	margin-left:63%;
+	margin-top:-300px;
+	width:450px;
+	background-color:#E1E1E1;
+}
+
+.ranking1{
+	margin-left:65%;
+	margin-top:15px;
+}
+
+.ranking2{
+	margin-left:63%;
+	margin-top:30px;
+	width:450px;
+	background-color:#E1E1E1;
+}	
+
+.ranking3{
+	margin-left:65%;
+	margin-top:30px;
+}
+
+.jogando{
+	`margin-left:25%;
+	margin-top:140px;
+}
+
+.exibirimagemnojogo{
+	margin-left:86%;
+	margin-top:-93px;
+	position:absolute;
+}
+
+.exibirimagemnojogo1{
+	margin-left:86%;
+	margin-top:-203px;
+	position:absolute;
+}
+
+#btngrupo1{
+		position:absolute;
+		border:0px;
+	width:165px;
+	height:22px;
+	margin-left:-16%;
+	margin-top:80px;
+	background-color:#DCDCDC;
+	border-radius:4px;
+}
+
+#btngrupo1:hover{
+	background-color:white;
+}
+
+.ranking5{
+	margin-top:105px;
+}
+
+.mostrarranking{
+	position:relative;
+	background-color:white;
+	width:400px;
+	height:120px;
+	border-radius:14px;
+	margin-left:-70%;
+	margin-top:5px;
+}
+
+.mostrarrankin2{
+	position:relative;
+	background-color:white;
+	width:400px;
+	height:120px;
+	border-radius:14px;
+	margin-left:-40%;
+	margin-top:5px;
+}
+
+.mostrarfotos{
+	position:relative;
+	background-color:#F0F0F0;
+	width:683px;
+	border-radius:4px;
+	margin-top:-38px;
+	height:450px;
+	margin-left:25%;
+}
+
+#deletarimagem{
+		position:absolute;
+		border:0px;
+	width:165px;
+	height:22px;
+	margin-left:6%;
+	margin-top:40px;
+	background-color:#DCDCDC;
+	border-radius:4px
+}
+
+#deletarimagem:hover{
+	background-color:white;
+}
+
+#novafoto{
+		position:absolute;
+		border:0px;
+	width:165px;
+	height:22px;
+	margin-left:6%;
+	margin-top:80px;
+	background-color:#DCDCDC;
+	border-radius:4px
+}
+
+#novafoto:hover{
+	background-color:white;
+}
+
+.suaposicao{
+	position:absolute;
+	margin-left:-1%;
+}
+
+.mostrarranking1{
+	background-color:black;
+}
+
+.alinharimg{
+	position:absolute;
+	margin-left:-45%;
+	margin-top:-7px;
+}
+
+.alinharpontos{
+	position:absolute;
+	margin-left:35%;
+	margin-top:16px;
+}
+
+.alinharemail{
+	position:absolute;
+	margin-top:20px;
+	margin-left:35%;
+}
+
+.tema1{
+	margin-left:27%;
+	background-color:white;
+	width:230px;
+	border-radius:5px;
+}
+
+.tema2{
+	margin-left:23%;
+	background-color:white;
+	width:360px;
+	border-radius:5px;
+}
